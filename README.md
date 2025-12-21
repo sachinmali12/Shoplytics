@@ -8,6 +8,9 @@ Shoplytics is an end-to-end Retail Data Analytics project 🚀 focused on analyz
 
 The project simulates a **real-world retail analytics use case**, focusing on sales performance, profitability, customer behavior, and future sales forecasting.
 
+
+![Structure of Dashboard](https://github.com/sachinmali12/Shoplytics/blob/e0df0bf82c7dea36da41705ce3dfc189a18eb8bd/Power%20BI/Store-Performance-Dashboard-Infographic-600x639.png)
+
 ---
 
 ## 🧰 Tech Stack
@@ -60,7 +63,7 @@ SQL was used to:
 ## 📊 Power BI Dashboards
 
 ### 🔹 Sales Performance Dashboard
-![Sales Dashboard](powerbi/screenshots/Dashboard_page-0001.jpg)
+![Sales Dashboard](https://github.com/sachinmali12/Shoplytics/blob/e0df0bf82c7dea36da41705ce3dfc189a18eb8bd/Power%20BI/Dashboard_page-0001.jpg)
 
 **Highlights:**
 - 💰 Total Sales: **1.6M**
@@ -73,7 +76,7 @@ SQL was used to:
 ---
 
 ### 🔹 Sales Forecast & Trend Analysis
-![Sales Forecast Dashboard](powerbi/screenshots/Dashboard_page-0002.jpg)
+![Sales Forecast Dashboard](https://github.com/sachinmali12/Shoplytics/blob/e0df0bf82c7dea36da41705ce3dfc189a18eb8bd/Power%20BI/Dashboard_page-0002.jpg)
 
 **Highlights:**
 - 📅 Monthly & yearly sales trends
