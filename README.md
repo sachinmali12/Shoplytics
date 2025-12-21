@@ -1,6 +1,3 @@
-# Shoplytics
-Shoplytics is an end-to-end Retail Data Analytics project 🚀 focused on analyzing, visualizing, and extracting meaningful insights from retail sales data. This project demonstrates how raw business data can be transformed into actionable intelligence to support smarter business decisions 🧠📈.
-
 # 🛒 Shoplytics – Retail Sales Analytics Dashboard 📊
 
 ## 📌 Project Overview
