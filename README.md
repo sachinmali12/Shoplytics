@@ -12,7 +12,7 @@ The project simulates a **real-world retail analytics use case**, focusing on sa
 
 ## 🧰 Tech Stack
 - **Dataset:** From Kaggle  
-- **Data Cleaning:** Jupyter Notebook
+- **Data Cleaning:** Pandas (Jupyter Notebook)
 - **Data Analysis:** SQL  
 - **Visualization:** Power BI  
 - **Forecasting:** Power BI Time Series Forecast  
