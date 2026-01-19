@@ -1,4 +1,4 @@
-10987654321# 🛒 Shoplytics – Retail Sales Analytics Dashboard 📊
+210987654321# 🛒 Shoplytics – Retail Sales Analytics Dashboard 📊
 
 ## 📌 Project Overview
 **Shoplytics** is an **end-to-end retail sales analytics project** that transforms raw sales data into meaningful business insights using **SQL, data cleaning, and Power BI**.
